@@ -17,6 +17,12 @@ Hello, I'm Shreyas Pandey, and my passion lies in databases, cloud computing, AW
 
 Explore the diverse range of projects featured in this portfolio:
 
+### Project 0: AWS Cost Optimization removing orphan Snapshots
+
+- **Description:** This project focuses on removing orphan snapshots which doesn't have an associated volume or EC2 instance.
+- **Technologies Used:** EventBridge Schedule, Lambda, SNS.
+- [Link to Project README]()
+
 ### Project 1: Data Visualization with AWS QuickSight and S3
 
 - **Description:** This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
